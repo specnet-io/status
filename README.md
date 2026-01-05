@@ -1,5 +1,7 @@
 # SPECNET.IO SYSTEMs STATUS
-These are very basic CURL checks that the server is scheduled to simply check in.  If the server misses X checks, it should appear as down.
+These are very basic CURL checks that the server is scheduled to simply check in.  
+ - If the server misses X checks, it should appear as down.
+ - Using https://healthchecks.io
 
 # JDC (Jimmy Datacenter) Hosting
 ## Hardware
