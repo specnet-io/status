@@ -13,12 +13,11 @@ SPECNET.IO Status Page
 ![proxmox2-status](https://healthchecks.io/b/2/a8e67f23-a681-4d89-b287-71d91d47287e.svg)
 <br>Secondary Proxmox Server
 <br>** GAME SERVERS ARE HERE **
-<br>
+<br>** GAME SERVERS ARE NOT ON NFS-BACKED STORAGE DUE TO I/O REQs**
 
 ![nas-status](https://healthchecks.io/b/2/2acb26cb-26b8-4442-9b6d-713281921476.svg)
 <br>Network Attached Storage (drive, photos, nfs, smb, sftp)
 <br>** MAY AFFECT VMs running on NFS backed storage **
-<br>
 
 ## Virtual
 ![windows-game-host](https://healthchecks.io/b/2/842499c7-4178-4826-a952-9786fd93fd2a.svg)
