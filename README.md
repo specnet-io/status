@@ -4,6 +4,7 @@ These are very basic CURL checks that the server is scheduled to simply check in
 ## JDC (Jimmy Datacenter) Hosting
 ### Hardware
 <hr>
+
 ![firewall-status](https://healthchecks.io/b/2/e5b2f523-b930-4c88-a184-ca4cd9079c58.svg)
 <br>Overall Internet Status
 <br>
@@ -23,6 +24,7 @@ These are very basic CURL checks that the server is scheduled to simply check in
 
 ## Virtual
 <hr>
+
 ![windows-game-host](https://healthchecks.io/b/2/842499c7-4178-4826-a952-9786fd93fd2a.svg)
 <br>Enshrouded
 <br>
