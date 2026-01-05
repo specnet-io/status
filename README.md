@@ -1,7 +1,9 @@
-SPECNET.IO Status Page
+# SPECNET.IO SYSTEMs STATUS
+These are very basic CURL checks that the server is scheduled to simply check in.  If the server misses X checks, it should appear as down.
 
-# JDC (Jimmy Datacenter) Hosting
-## Hardware
+## JDC (Jimmy Datacenter) Hosting
+### Hardware
+<hr>
 ![firewall-status](https://healthchecks.io/b/2/e5b2f523-b930-4c88-a184-ca4cd9079c58.svg)
 <br>Overall Internet Status
 <br>
@@ -20,6 +22,7 @@ SPECNET.IO Status Page
 <br>** MAY AFFECT VMs running on NFS backed storage **
 
 ## Virtual
+<hr>
 ![windows-game-host](https://healthchecks.io/b/2/842499c7-4178-4826-a952-9786fd93fd2a.svg)
 <br>Enshrouded
 <br>
