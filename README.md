@@ -3,6 +3,9 @@ These are very basic CURL checks that the server is scheduled to simply check in
  - If the server misses X checks, it should appear as down.
  - Using https://healthchecks.io
 
+When one of these services is marked as down, a notice should also trigger in our discord.
+ - https://discord.com/channels/221068604760784897/1457615094849605643
+
 # JDC (Jimmy Datacenter) Hosting
 ## Hardware
 ![firewall-status](https://healthchecks.io/b/2/e5b2f523-b930-4c88-a184-ca4cd9079c58.svg)
